@@ -1,0 +1,52 @@
+[
+    {
+      "eventName": "Kandy Esala Perahera",
+      "eventVenue": "Sri Dalada Maligawa, Kandy",
+      "Total Tickets": 5000,
+      "Ticket Release Rate": "200 per day",
+      "pricePerTicket": 150,
+      "serviceFeePercentage": 20,
+      "eventDate": "2024-08-10",
+      "Event Description": "One of the grandest cultural and religious processions in Sri Lanka, showcasing traditional dancers, drummers, and elephants."
+    },
+    {
+      "eventName": "Galle Literary Festival",
+      "eventVenue": "Dutch Fort, Galle",
+      "Total Tickets": 3000,
+      "Ticket Release Rate": "100 per day",
+      "pricePerTicket": 100,
+      "serviceFeePercentage": 3,
+      "eventDate": "2024-01-20",
+      "Event Description": "An international literary event featuring authors, poets, and literary enthusiasts from around the world."
+    },
+    {
+      "eventName": "Colombo Fashion Week",
+      "eventVenue": "Shangri-La Hotel, Colombo",
+      "Total Tickets": 2000,
+      "Ticket Release Rate": "150 per day",
+      "pricePerTicket": 300,
+      "serviceFeePercentage": 5,
+      "eventDate": "2024-05-15",
+      "Event Description": "An annual fashion event highlighting the work of Sri Lanka's leading designers and promoting ethical fashion."
+    },
+    {
+      "eventName": "Ella Adventure Festival",
+      "eventVenue": "Ella Town, Ella",
+      "Total Tickets": 1500,
+      "Ticket Release Rate": "50 per day",
+      "pricePerTicket": 240,
+      "serviceFeePercentage": 1,
+      "eventDate": "2024-06-25",
+      "Event Description": "A thrilling outdoor festival offering hiking, ziplining, and other adventure activities in the scenic hills of Ella."
+    },
+    {
+      "eventName": "Jaffna Food Festival",
+      "eventVenue": "Jaffna Cultural Centre, Jaffna",
+      "Total Tickets": 2500,
+      "Ticket Release Rate": "75 per day",
+      "pricePerTicket": 800,
+      "serviceFeePercentage": 10,
+      "eventDate": "2024-11-12",
+      "Event Description": "A celebration of Jaffna's unique culinary heritage, featuring authentic Tamil dishes and cooking demonstrations."
+    }
+]

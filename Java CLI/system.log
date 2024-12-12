@@ -1,0 +1,101 @@
+2024-12-12 11:37:35Invalid command. Please enter 'start', 'stop', or 'exit'.
+2024-12-12 11:37:40Starting ticket handling operations...
+2024-12-12 11:47:08Invalid command. Please enter 'start', 'stop', or 'exit'.
+2024-12-12 11:47:26Starting ticket handling operations...
+2024-12-12 11:56:31Invalid command. Please enter 'start', 'stop', or 'exit'.
+2024-12-12 11:56:34Starting ticket handling operations...
+2024-12-12 11:58:45 Starting ticket handling operations...
+2024-12-12 12:12:14 Invalid command. Please enter 'start', 'stop', or 'exit'.
+2024-12-12 12:12:20 Starting ticket handling operations...
+2024-12-12 12:12:20 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:12:20 Ticket bought by - Customer ID-1 - current size is - 0 - Ticket is - Ticket{ticketId=1, event='New Event', ticketPrice=1000}
+2024-12-12 12:12:20 Customer ID-0 waiting as no tickets are available...
+2024-12-12 12:12:20 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 12:12:20 Ticket bought by - Customer ID-0 - current size is - 0 - Ticket is - Ticket{ticketId=2, event='New Event', ticketPrice=1000}
+2024-12-12 12:12:22 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:12:22 Ticket added by - Vendor ID-1 - current size is - 2
+2024-12-12 12:12:24 Ticket added by - Vendor ID-0 - current size is - 3
+2024-12-12 12:12:24 Ticket added by - Vendor ID-1 - current size is - 4
+2024-12-12 12:12:26 Ticket added by - Vendor ID-0 - current size is - 5
+2024-12-12 12:12:26 Ticket added by - Vendor ID-1 - current size is - 6
+2024-12-12 12:12:28 Ticket added by - Vendor ID-1 - current size is - 7
+2024-12-12 12:12:28 Ticket added by - Vendor ID-0 - current size is - 8
+2024-12-12 12:12:30 Ticket added by - Vendor ID-1 - current size is - 9
+2024-12-12 12:12:30 Ticket added by - Vendor ID-0 - current size is - 10
+2024-12-12 12:12:32 Vendor ID-1 waiting as ticket pool is full...
+2024-12-12 12:12:32 Vendor ID-0 waiting as ticket pool is full...
+2024-12-12 12:14:49 Starting ticket handling operations...
+2024-12-12 12:14:49 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:14:49 Ticket bought by - Customer ID-1 - current size is - 0 - Ticket is - Ticket{ticketId=1, event='New Event', ticketPrice=1000}
+2024-12-12 12:14:49 Customer ID-0 waiting as no tickets are available...
+2024-12-12 12:14:49 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 12:14:49 Ticket bought by - Customer ID-0 - current size is - 0 - Ticket is - Ticket{ticketId=2, event='New Event', ticketPrice=1000}
+2024-12-12 12:14:51 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:14:51 Ticket added by - Vendor ID-1 - current size is - 2
+2024-12-12 12:14:53 Ticket added by - Vendor ID-0 - current size is - 3
+2024-12-12 12:14:53 Ticket added by - Vendor ID-1 - current size is - 4
+2024-12-12 12:14:55 Ticket added by - Vendor ID-0 - current size is - 5
+2024-12-12 12:14:55 Ticket added by - Vendor ID-1 - current size is - 6
+2024-12-12 12:14:57 Ticket added by - Vendor ID-0 - current size is - 7
+2024-12-12 12:14:57 Ticket added by - Vendor ID-1 - current size is - 8
+2024-12-12 12:14:59 Ticket added by - Vendor ID-0 - current size is - 9
+2024-12-12 12:14:59 Ticket added by - Vendor ID-1 - current size is - 10
+2024-12-12 12:15:01 Ticket added by - Vendor ID-0 - current size is - 11
+2024-12-12 12:15:01 Ticket added by - Vendor ID-1 - current size is - 12
+2024-12-12 12:15:03 Ticket added by - Vendor ID-0 - current size is - 13
+2024-12-12 12:15:03 Ticket added by - Vendor ID-1 - current size is - 14
+2024-12-12 12:15:05 Ticket added by - Vendor ID-0 - current size is - 15
+2024-12-12 12:15:05 Vendor ID-1 waiting as ticket pool is full...
+2024-12-12 12:15:07 Vendor ID-0 waiting as ticket pool is full...
+2024-12-12 12:18:52 Starting ticket handling operations...
+2024-12-12 12:18:52 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 12:18:52 Ticket bought by - Customer ID-1 - current size is - 0 - Ticket is - Ticket{ticketId=1, event='New Event', ticketPrice=1000}
+2024-12-12 12:18:52 Customer ID-0 waiting as no tickets are available...
+2024-12-12 12:18:52 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:18:52 Ticket bought by - Customer ID-0 - current size is - 0 - Ticket is - Ticket{ticketId=2, event='New Event', ticketPrice=1000}
+2024-12-12 12:18:54 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 12:18:54 Ticket added by - Vendor ID-0 - current size is - 2
+2024-12-12 12:18:56 Ticket added by - Vendor ID-1 - current size is - 3
+2024-12-12 12:18:56 Ticket added by - Vendor ID-0 - current size is - 4
+2024-12-12 12:20:09 Starting ticket handling operations...
+2024-12-12 12:20:09 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:20:09 Ticket bought by - Customer ID-1 - current size is - 0 - Ticket is - Ticket{ticketId=1, event='New Event', ticketPrice=1000}
+2024-12-12 12:20:09 Customer ID-0 waiting as no tickets are available...
+2024-12-12 12:20:09 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 12:20:09 Ticket bought by - Customer ID-0 - current size is - 0 - Ticket is - Ticket{ticketId=2, event='New Event', ticketPrice=1000}
+2024-12-12 12:21:00 Starting ticket handling operations...
+2024-12-12 12:21:00 Customer ID-0 waiting as no tickets are available...
+2024-12-12 12:21:00 Customer ID-1 waiting as no tickets are available...
+2024-12-12 12:21:00 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 12:21:00 Ticket added by - Vendor ID-1 - current size is - 2
+2024-12-12 12:21:00 Ticket bought by - Customer ID-1 - current size is - 1 - Ticket is - Ticket{ticketId=1, event='New Event', ticketPrice=1000}
+2024-12-12 12:21:00 Ticket bought by - Customer ID-0 - current size is - 0 - Ticket is - Ticket{ticketId=2, event='New Event', ticketPrice=1000}
+2024-12-12 12:21:02 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 12:21:02 Ticket added by - Vendor ID-0 - current size is - 2
+2024-12-12 12:21:04 Ticket added by - Vendor ID-0 - current size is - 3
+2024-12-12 12:21:04 Ticket added by - Vendor ID-1 - current size is - 4
+2024-12-12 12:21:06 Ticket added by - Vendor ID-0 - current size is - 5
+2024-12-12 12:21:06 Ticket added by - Vendor ID-1 - current size is - 6
+2024-12-12 12:21:08 Ticket added by - Vendor ID-0 - current size is - 7
+2024-12-12 12:21:08 Ticket added by - Vendor ID-1 - current size is - 8
+2024-12-12 12:21:10 Ticket added by - Vendor ID-1 - current size is - 9
+2024-12-12 12:21:10 Ticket added by - Vendor ID-0 - current size is - 10
+2024-12-12 12:21:12 Vendor ID-0 waiting as ticket pool is full...
+2024-12-12 12:21:12 Vendor ID-1 waiting as ticket pool is full...
+2024-12-12 15:28:25 Starting ticket handling operations...
+2024-12-12 15:28:25 Ticket added by - Vendor ID-0 - current size is - 1
+2024-12-12 15:28:25 Ticket added by - Vendor ID-1 - current size is - 2
+2024-12-12 15:28:25 Ticket bought by - Customer ID-1 - current size is - 1 - Ticket is - Ticket{ticketId=1, event='New Event', ticketPrice=1000}
+2024-12-12 15:28:25 Ticket bought by - Customer ID-0 - current size is - 0 - Ticket is - Ticket{ticketId=2, event='New Event', ticketPrice=1000}
+2024-12-12 15:28:27 Ticket added by - Vendor ID-1 - current size is - 1
+2024-12-12 15:28:27 Ticket added by - Vendor ID-0 - current size is - 2
+2024-12-12 15:28:29 Ticket added by - Vendor ID-0 - current size is - 3
+2024-12-12 15:28:29 Ticket added by - Vendor ID-1 - current size is - 4
+2024-12-12 15:28:31 Ticket added by - Vendor ID-1 - current size is - 5
+2024-12-12 15:28:31 Ticket added by - Vendor ID-0 - current size is - 6
+2024-12-12 15:28:33 Ticket added by - Vendor ID-1 - current size is - 7
+2024-12-12 15:28:33 Ticket added by - Vendor ID-0 - current size is - 8
+2024-12-12 15:28:35 Ticket added by - Vendor ID-0 - current size is - 9
+2024-12-12 15:28:35 Ticket added by - Vendor ID-1 - current size is - 10
+2024-12-12 15:28:37 Vendor ID-0 waiting as ticket pool is full...
+2024-12-12 15:28:37 Vendor ID-1 waiting as ticket pool is full...

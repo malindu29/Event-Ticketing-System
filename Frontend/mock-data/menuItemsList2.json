@@ -1,0 +1,14 @@
+
+[
+    { "text": "Profile", "icon": "../src/assets/Profile.png", "path": "/profile" },
+    {
+      { "text": "Dashboard", "icon": "../src/assets/Dashboard.png", "path": "/dashboard" },
+      { "text": "Create Ticket", "icon": "../src/assets/Configuration.png", "path": "/create-ticket" },
+      { "text": "Ticket Purchase", "icon": "../src/assets/Purchase.png", "path": "/ticket-purchase" },
+      { "text": "Vendor Management", "icon": "../src/assets/Vendor.png", "path": "/vendor-management" },
+      { "text": "Notifications", "icon": "../src/assets/Notification.png", "path": "/notifications" },
+      { "text": "Reports", "icon": "../src/assets/Reports.png", "path": "/reports" }
+}
+    
+  ]
+  

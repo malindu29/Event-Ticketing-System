@@ -1,0 +1,6 @@
+[
+    { "text": "Create Ticket", "icon": "../src/assets/Configuration.png", "path": "/create-ticket" },
+    { "text": "Ticket Purchase", "icon": "../src/assets/Purchase.png", "path": "/ticket-purchase" }
+  ]
+  
+  
