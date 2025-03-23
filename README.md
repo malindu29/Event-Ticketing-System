@@ -1,2 +1,2 @@
 # Event-Ticketing-System
-Ticketing system using Java for CLI, Node.js for the backend, and React for the frontend. It features real-time ticket management, dynamic configuration, and seamless user interaction.
+🎟️ Ticketing system with Java (CLI), Node.js (backend), and React (frontend). Features real-time ticket management, dynamic configuration, and seamless interaction.
